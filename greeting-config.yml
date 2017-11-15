@@ -4,7 +4,7 @@ security:
 management:
   security:
     enabled: false
- logging: # <----New sections below
+logging: # <----New sections below
   level:
     io:
       pivotal: DEBUG
